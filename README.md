@@ -9,6 +9,8 @@ Golio is a wrapper for the Riot API and the Data Dragon service.
 It is written purely in Go and provides idiomatic access to all
 API endpoints.
 
+**NOTE:** This is a forked branch and please see original repository here [origin](https://github.com/KnutZuidema/golio).
+
 ## Example
 
 ```go
